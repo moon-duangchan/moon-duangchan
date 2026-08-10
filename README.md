@@ -10,7 +10,7 @@ Dev
 
 ## Languages
 
-&nbsp;C, C#, Java, Python, TypeScript (I hate this, but I write it every day), Lua, SQL
+&nbsp;C, C#, Java, Python, TypeScript (I hate this, but I write it every day...), Lua, SQL
 
 ## Operating Systems
 
