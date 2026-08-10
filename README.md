@@ -24,4 +24,4 @@ Dev
 
 ---
 
- <small>*MDJ.*</small>
+ <small>*MDJ.*</small> <img src="https://img.icons8.com/?size=100&id=16479&format=png&color=000000" width="30">                                                         
