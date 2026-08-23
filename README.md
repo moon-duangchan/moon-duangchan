@@ -6,11 +6,11 @@ Dev
 
 ## Frameworks & Libraries
 
-&nbsp;NestJS, TypeORM, MySQL, PostgreSQL, SQLite
+&nbsp;NestJS, TypeORM, MySQL, PostgreSQL, SQL
 
 ## Languages
 
-&nbsp;C, C#, Java, Python, TypeScript (I hate this, but I write it every day...), Lua, SQL
+&nbsp;C, C#, Java, Python, TypeScript , Lua, SQL
 
 ## Operating Systems
 
