@@ -6,7 +6,7 @@ Dev
 
 ## Frameworks & Libraries
 
-&nbsp;NestJS, TypeORM, MySQL, PostgreSQL, SQL
+&nbsp;NestJS, TypeORM, MySQL, PostgreSQL, SQL , BullMQ 
 
 ## Languages
 
